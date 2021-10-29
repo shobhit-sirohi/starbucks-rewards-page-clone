@@ -1,4 +1,4 @@
-<h1 align="center">Javascript Clock</h1>
+<h1 align="center">Starbucks Rewards Page (Clone) </h1>
 
 <div align="center">
   <h3>
